@@ -1,6 +1,6 @@
 # Bioinformatics Python Projects
 
-A collection of Python projects developed during my graduate training in bioinformatics and computational biology. These projects demonstrate foundational sequence analysis, algorithm implementation, and next-generation sequencing workflow development.
+A collection of Python projects developed during my graduate training in bioinformatics and computational biology. These projects demonstrate biological sequence analysis, algorithm implementation, dynamic programming, and next-generation sequencing workflow development.
 
 ## Projects
 
